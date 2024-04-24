@@ -1,2 +1,3 @@
-***Future Github Repo***
+***Charged's Homeassistant Tutorials***
+
 _Currently Empty_
