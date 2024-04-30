@@ -65,7 +65,7 @@ Weather Radar Card (2nd one: Shows rain on a nice card in my weather popup)
 
 Kiosk Mode (Yes this is required in homeassistant to disable the sidebar and header so it  doesent look ugly. In a web browser you can disable the kiosk mode by adding ?disable_km behind the url Example: https://yourhassinstance.duckdns.org/dashboard-tablet/Standard-Room/***?disable_km***)
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=NemesisRE&repository=kiosk-mode&category=plugin)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https[:]//my[.]home-assistant[.]io/redirect/hacs_repository/?owner=NemesisRE&repository=kiosk-mode&category=plugin)
 
 Battery State Card (used as battery indicator)
 
