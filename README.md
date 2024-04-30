@@ -28,7 +28,7 @@ I mainly use the normal cards for turning things on/off and for opening popups.
 
 ___Its Strongly recommended to use hacs, so please do so by installing  [Hacs](https://hacs.xyz/docs/setup/download)___
 
-Redacted:
+***Redacted:***
 
 Card Mod
 
@@ -51,7 +51,7 @@ Vertical Stack in Card
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=ofekashery&repository=vertical-stack-in-card&category=plugin)
 
 
-Unredacted:
+***Unredacted:***
 
 Better Thermostat UI (Using as Pool Card, looks cooler and more functions):
 
