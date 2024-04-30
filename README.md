@@ -1,4 +1,4 @@
-***My Homeassistant Dashboard***
+***My Homeassistant (Tablet) Dashboard***
 
 This was created by using a lot of custom ressources. I recommend you checking them out. (look below)
 
@@ -40,4 +40,42 @@ Mini-Graph Card (Using it for my Humidity and Temperature Poups)
 Button Card (Core component, needed for most of the dashboard)
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=custom-cards&repository=button-card&category=plugin)
+
+Layout Card (Required for my Dashboards Layout)
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=thomasloven&repository=lovelace-layout-card&category=plugin)
+
+For Wallpanel there is a nice integration named wallpanel but personally i like fully kiosk more. You pay one time, but i think its worth it. Fully has got a lot of features like hass communication, motion detection, very good error of website detection (shows when offline reconnects when online tries to reconnect to wifi network) and a ton of more features i cant put in this description so go check out both of them and see whats better for you :)
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=j-a-n&repository=lovelace-wallpanel&category=plugin)
+
+https://www.fully-kiosk.com/en/
+
+ Mushroom (Standard Mushroom is required for the custom areas i set using the chips)
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=piitaya&repository=lovelace-mushroom&category=plugin)
+
+Simple weather card (For weather in the sidebar and yes there are 2-3 weather cards in this dashboard. Trust me all of them make sense!)
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=kalkih&repository=simple-weather-card&category=plugin)
+
+Weather Radar Card (2nd one: Shows rain on a nice card in my weather popup)
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Makin-Things&repository=weather-radar-card&category=plugin)
+
+Kiosk Mode (Yes this is required in homeassistant to disable the sidebar and header so it  doesent look ugly. In a web browser you can disable the kiosk mode by adding ?disable_km behind the url Example: https://yourhassinstance.duckdns.org/dashboard-tablet/Standard-Room/***?disable_km***)
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=NemesisRE&repository=kiosk-mode&category=plugin)
+
+Battery State Card (used as battery indicator)
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=maxwroc&repository=battery-state-card&category=plugin)
+
+Clock Weather Card (used as main weather card in weather popup)
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=pkissling&repository=clock-weather-card&category=plugin)
+
+Card Mod (default required by Dashboard)
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=thomasloven&repository=lovelace-card-mod&category=plugin)
 
