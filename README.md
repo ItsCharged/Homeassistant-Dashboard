@@ -7,6 +7,8 @@ The diffrence between them, is that one uses (not redacted) shows all my entitys
 The redacted one only shows Template cards which you can change and fit to your liking. It shows basic ways to animate, using (adaptive) icons and colors.
 I mainly use the normal cards for turning things on/off and for opening popups.
 
+IMPORTANT: Even if it the dashboard is not redacted Weather service (shows my position excactly) and device ids from the browser mod popups and more things that could have been sensitive i have removed.
+
 ***Tutorial on how to set up dashboard & Theme:***
 1. Get the Latest code from [Releases](https://github.com/ItsCharged/Itsememario/releases/)
 2. Create new homeassistant Dashboard by [⚙️]Settings -> [◻️]Dashboards -> [➕]Create Dashboard -> [✐]New Dashboard from Ground up
