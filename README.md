@@ -13,7 +13,7 @@ I mainly use the normal cards for turning things on/off and for opening popups.
 
 ***Requirements for redacted & unredacted versions***
 
-___Its Strongly recommended to use hacs, so please do so by installing  [Hacs](https://hacs.xyz/docs/setup/download)
+___Its Strongly recommended to use hacs, so please do so by installing  [Hacs](https://hacs.xyz/docs/setup/download)___
 
 Redacted:
 
