@@ -8,8 +8,21 @@ The redacted one only shows Template cards which you can change and fit to your 
 I mainly use the normal cards for turning things on/off and for opening popups.
 
 ***Tutorial on how to set up dashboard & Theme:***
+1. Get the Latest code from [Releases](https://github.com/ItsCharged/Itsememario/releases/)
+2. Create new homeassistant Dashboard by [⚙️]Settings -> [◻️]Dashboards -> [➕]Create Dashboard -> [✐]New Dashboard from Ground up
+3. Go to dashboard then click ✐ -> ⫶ -> {}Raw Configuration Editor
+4. Paste in Dashboard Code
 
+ For Theme:
 
+ 1. Open File manager
+ 2. Locate folder 'themes' (if not there create it)
+ 3. Create new folder
+ 4. Name it like your theme
+ 5. Create file in that folder
+ 6. Name it [Name it like your theme].yaml
+ 7. Add newest Theme Code
+ 8. Edit the 2nd row of the yaml and change the text before the : to your themes name (very important: Dont forget that spaces aren't allowed! Use minus instead.)
 
 ***Requirements for redacted & unredacted versions***
 
