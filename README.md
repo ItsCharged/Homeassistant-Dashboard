@@ -7,12 +7,14 @@ The diffrence between them, is that one uses (not redacted) shows all my entitys
 The redacted one only shows Template cards which you can change and fit to your liking. It shows basic ways to animate, using (adaptive) icons and colors.
 I mainly use the normal cards for turning things on/off and for opening popups.
 
-***Tutorial on how to set up dashboard and Theme:***
+***Tutorial on how to set up dashboard & Theme:***
 
 
 
 ***Requirements for redacted & unredacted versions***
 
-Redacted
+___Its Strongly recommended to use hacs, so please do so by installing  [Hacs](https://hacs.xyz/docs/setup/download)
+
+Redacted:
 
 Unredacted
