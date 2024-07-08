@@ -3333,7 +3333,7 @@ views:
                             block:
                               exemptions:
                                 - user: XXX
-                              text: Du bist nicht Anton!
+                              text: Du bist nicht XXX!
                             pin:
                               code: XXX
                               text: Pin Eingeben
